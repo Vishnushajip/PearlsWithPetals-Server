@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "vishnu-1bc57",
+    "public": "vishnu-1bc57",
+    "staging": "vishnu-1bc57"
+  },
+  "targets": {},
+  "etags": {}
+}
